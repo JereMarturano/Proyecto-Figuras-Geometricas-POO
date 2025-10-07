@@ -1,0 +1,14 @@
+C:\Users\Jerem\source\repos\TrabajoEnClase15092025\TrabajoEnClase15092025\bin\Debug\net8.0\TrabajoEnClase15092025.exe
+C:\Users\Jerem\source\repos\TrabajoEnClase15092025\TrabajoEnClase15092025\bin\Debug\net8.0\TrabajoEnClase15092025.deps.json
+C:\Users\Jerem\source\repos\TrabajoEnClase15092025\TrabajoEnClase15092025\bin\Debug\net8.0\TrabajoEnClase15092025.runtimeconfig.json
+C:\Users\Jerem\source\repos\TrabajoEnClase15092025\TrabajoEnClase15092025\bin\Debug\net8.0\TrabajoEnClase15092025.dll
+C:\Users\Jerem\source\repos\TrabajoEnClase15092025\TrabajoEnClase15092025\bin\Debug\net8.0\TrabajoEnClase15092025.pdb
+C:\Users\Jerem\source\repos\TrabajoEnClase15092025\TrabajoEnClase15092025\obj\Debug\net8.0\TrabajoEnClase15092025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jerem\source\repos\TrabajoEnClase15092025\TrabajoEnClase15092025\obj\Debug\net8.0\TrabajoEnClase15092025.AssemblyInfoInputs.cache
+C:\Users\Jerem\source\repos\TrabajoEnClase15092025\TrabajoEnClase15092025\obj\Debug\net8.0\TrabajoEnClase15092025.AssemblyInfo.cs
+C:\Users\Jerem\source\repos\TrabajoEnClase15092025\TrabajoEnClase15092025\obj\Debug\net8.0\TrabajoEnClase15092025.csproj.CoreCompileInputs.cache
+C:\Users\Jerem\source\repos\TrabajoEnClase15092025\TrabajoEnClase15092025\obj\Debug\net8.0\TrabajoEnClase15092025.dll
+C:\Users\Jerem\source\repos\TrabajoEnClase15092025\TrabajoEnClase15092025\obj\Debug\net8.0\refint\TrabajoEnClase15092025.dll
+C:\Users\Jerem\source\repos\TrabajoEnClase15092025\TrabajoEnClase15092025\obj\Debug\net8.0\TrabajoEnClase15092025.pdb
+C:\Users\Jerem\source\repos\TrabajoEnClase15092025\TrabajoEnClase15092025\obj\Debug\net8.0\TrabajoEnClase15092025.genruntimeconfig.cache
+C:\Users\Jerem\source\repos\TrabajoEnClase15092025\TrabajoEnClase15092025\obj\Debug\net8.0\ref\TrabajoEnClase15092025.dll
