@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Figura cuadrado1 = new Cuadrado();
-            //si se puede, salu2
+            //no... no se puede 
             Console.WriteLine($"Resultado: {cuadrado1}");
         
         }

@@ -12,3 +12,4 @@ C:\Users\Jerem\source\repos\TrabajoEnClase15092025\TrabajoEnClase15092025\obj\De
 C:\Users\Jerem\source\repos\TrabajoEnClase15092025\TrabajoEnClase15092025\obj\Debug\net8.0\TrabajoEnClase15092025.pdb
 C:\Users\Jerem\source\repos\TrabajoEnClase15092025\TrabajoEnClase15092025\obj\Debug\net8.0\TrabajoEnClase15092025.genruntimeconfig.cache
 C:\Users\Jerem\source\repos\TrabajoEnClase15092025\TrabajoEnClase15092025\obj\Debug\net8.0\ref\TrabajoEnClase15092025.dll
+C:\Users\Jerem\source\repos\TrabajoEnClase15092025\TrabajoEnClase15092025\obj\Debug\net8.0\TrabajoEnClase15092025.sourcelink.json
